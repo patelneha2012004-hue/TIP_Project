@@ -1,5 +1,5 @@
 
-# DAY 1 - Threat Intelligence Platform
+## DAY 1 - Threat Intelligence Platform
 
 -Intial project setup
 -GitHub Repository Created
