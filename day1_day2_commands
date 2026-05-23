@@ -1,0 +1,29 @@
+## DAY 1 COMMANDS
+
+- sudo apt update
+- sudo apt install git -y
+- mkdir TIP_Project
+- cd TIP_Project
+- git init
+- nano README.md
+- nano .gitignore
+- git add README.md .gitignore
+- git config --global user.name "yourName"
+- git config --global user.email "yourmail@gmail.com"
+- git branch -M main
+- git remote add origin https://github.com/USERNAME/TIP_Project.git
+- git push -u origin main
+
+## DAY 2 COMMANDS
+
+- sudo apt install python3-pip python3-venv -y
+- python3 -m venv venv
+- source venv/bin/activate
+- pip install requests pymongo beautifulsoup4
+- sudo systemctl start mongod
+- sudo systemctl enable mongod
+- sudo systemctl status mongod
+- nano osint_ingest.py
+- python3 osint_ingest.py
+- mongosh
+
