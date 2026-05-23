@@ -2,6 +2,7 @@ import requests
 
 from db_connect import collection
 from ioc_validator import validate_ip
+from logger import log_message
 
 url = "https://feodotracker.abuse.ch/downloads/ipblocklist.txt"
 
@@ -28,7 +29,12 @@ for line in lines:
 
         print(f"[+] Valid IOC Inserted: {ip}")
 
+        log_message(f"Valid IOC Inserted: {ip}")
+
     else:
+
         print(f"[-] Invalid IOC Skipped: {ip}")
+
+        log_message(f"Invalid IOC Skipped: {ip}")
 
 print("Done")

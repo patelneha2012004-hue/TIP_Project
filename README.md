@@ -7,8 +7,7 @@
 - README.md Created
 - .gitignore Created
 
-## Day 2 work
-
+## DAY 2 - OSINT and MongoDB Integration
 - MongoDB Installed
 - MongoDB Service Configured
 - Python Virtual Environment Created
@@ -30,3 +29,10 @@
 - Invalid IOC Filtering Added
 - Private IP Detection Added
 - Improved Threat Feed Processing
+
+## DAY 5 - Logging System and Monitoring
+
+- logs Folder Created
+- Logging Module Added
+- Threat Activity Logging Added
+- Monitoring System Improved
