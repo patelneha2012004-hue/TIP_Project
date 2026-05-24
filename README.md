@@ -55,3 +55,4 @@
 - Elasticsearch Installed
 - SIEM Backend Configured
 - Elasticsearch service Tested
+- Elasticsearch_setup.md Documentation Added
