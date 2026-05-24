@@ -57,3 +57,10 @@
 - SIEM Backend Configured
 - Elasticsearch service Tested
 - Elasticsearch_setup.md Documentation Added
+
+## WEEK 2 - Day 4
+
+- Kibana Installed
+- SIEM Visualization Setup
+- Kibana Dashboard Accessed
+- kibana_setup.md Documentation Added
