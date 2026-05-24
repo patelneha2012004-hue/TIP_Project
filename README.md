@@ -50,3 +50,8 @@
 - JSON Threat Formatting
 - MongoDB Structured Collection Created
 
+## WEEK 2 - DAY 3
+
+- Elasticsearch Installed
+- SIEM Backend Configured
+- Elasticsearch service Tested
