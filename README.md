@@ -64,3 +64,10 @@
 - SIEM Visualization Setup
 - Kibana Dashboard Accessed
 - kibana_setup.md Documentation Added
+
+## WEEK 2 -Day 5
+
+- MongoDB Threat Data Access Tested
+- Threat collection Read Successfully
+- Elasticsearch Verification completed
+- mongo_to_elastic.py script Added 
