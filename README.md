@@ -36,3 +36,10 @@
 - Logging Module Added
 - Threat Activity Logging Added
 - Monitoring System Improved
+
+## WEEK 2 - DAY 1
+
+- Threat Data Normalization
+- Risk Score Assignment
+- MongoDB Threat Analysis
+- normalize.py Script Added
