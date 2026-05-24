@@ -43,3 +43,10 @@
 - Risk Score Assignment
 - MongoDB Threat Analysis
 - normalize.py Script Added
+
+## WEEK2 - DAY 2
+
+- Structured Threat Data Added
+- JSON Threat Formatting
+- MongoDB Structured Collection Created
+
