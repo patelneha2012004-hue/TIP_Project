@@ -49,6 +49,7 @@
 - Structured Threat Data Added
 - JSON Threat Formatting
 - MongoDB Structured Collection Created
+- structured_feed.py Module Added
 
 ## WEEK 2 - DAY 3
 
