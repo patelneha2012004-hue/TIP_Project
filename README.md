@@ -1,3 +1,4 @@
+# Threat Intelligence Platform
 
 ## DAY 1 - Threat Intelligence Platform
 
@@ -8,6 +9,7 @@
 - .gitignore Created
 
 ## DAY 2 - OSINT and MongoDB Integration
+
 - MongoDB Installed
 - MongoDB Service Configured
 - Python Virtual Environment Created
@@ -44,7 +46,7 @@
 - MongoDB Threat Analysis
 - normalize.py Script Added
 
-## WEEK2 - DAY 2
+## WEEK 2 - DAY 2
 
 - Structured Threat Data Added
 - JSON Threat Formatting
@@ -58,16 +60,25 @@
 - Elasticsearch service Tested
 - Elasticsearch_setup.md Documentation Added
 
-## WEEK 2 - Day 4
+## WEEK 2 - DAY 4
 
 - Kibana Installed
 - SIEM Visualization Setup
 - Kibana Dashboard Accessed
 - kibana_setup.md Documentation Added
 
-## WEEK 2 -Day 5
+## WEEK 2 - DAY 5
 
 - MongoDB Threat Data Access Tested
 - Threat collection Read Successfully
-- Elasticsearch Verification completed
-- mongo_to_elastic.py script Added 
+- Elasticsearch Verification Completed
+- mongo_to_elastic.py Script Added
+
+## WEEK 3 - DAY 1
+
+- Automated Threat Feed Collection
+- Automatic Threat Feed Fetching Added
+- Scheduled Feed Collection Enabled
+- Cron Job Configuration Completed
+- Automated Monitoring Setup Added
+- auto_feed.py Script Added
