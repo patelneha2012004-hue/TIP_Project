@@ -82,3 +82,12 @@
 - Cron Job Configuration Completed
 - Automated Monitoring Setup Added
 - auto_feed.py Script Added
+
+## WEEK 3 - DAY 2
+
+- Thread Intelligence API Integration Completed
+- VirusTotal API Added
+- IOC Reputation Checking Enabled
+- External Thread Lookup Added
+- threat_api.py Module Added
+
