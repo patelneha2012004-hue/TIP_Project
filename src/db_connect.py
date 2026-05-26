@@ -8,3 +8,5 @@ collection = db["malicious_ips"]
 
 print("MongoDB Connected Successfully")
 
+
+
