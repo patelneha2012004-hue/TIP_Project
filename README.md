@@ -102,3 +102,12 @@
 - threat_api.py Module Added
 
 >>>>>>> c19166c40800391d780fcf58ce2b82c1d5f3e504
+# Features
+
+- Threat Feed Collection
+- IOC Validation
+- MongoDB Integration
+- Elasticsearch SIEM Backend
+- Kibana Dashboard
+- Threat Detection & Alerting
+- Threat Data Normalization
