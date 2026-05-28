@@ -1,30 +1,4 @@
-# Threat Intelligence Platform
-
-## Features
-
-- OSINT Threat Feed Ingestion
-- MongoDB Integration
-- IOC Validation
-- Threat Logging
-- IOC Search and Lookup
-- Threat Monitoring
-
-## DAY 1 - Threat Intelligence Platform
-## Features
-
-* OSINT Threat Feed Ingestion
-* MongoDB Integration
-* IOC Validation
-* Threat Logging
-* IOC Search and Lookup
-* Threat Monitoring
-* Elasticsearch SIEM Backend
-* Kibana Dashboard
-* Threat Detection & Alerting
-* Threat Data Normalization
-* Automated Threat Feed Collection
 * Threat Intelligence API Integration
-
 
 # WEEK 1 - DAY 1
 
