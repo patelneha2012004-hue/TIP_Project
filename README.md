@@ -209,6 +209,18 @@
 * Threat Monitoring Dashboard Prepared
 * Kibana Running on Port 5601
 
+# WEEK 3 - DAY 5
+
+##Threat Detection Optimization
+
+* Detection Rules Improved
+* False Positive Filtering Added
+* Alert Engine Optimization Completed
+* Threat Correlation Added
+* Detection Accuracy Improved
+
+detection_optimizer.py Module Added
+
 ## Features Added
 
 * SIEM Visualization
