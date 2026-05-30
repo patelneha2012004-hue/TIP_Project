@@ -218,8 +218,17 @@
 * Alert Engine Optimization Completed
 * Threat Correlation Added
 * Detection Accuracy Improved
+* detection_optimizer.py Module Added
 
-detection_optimizer.py Module Added
+# WEEK 3 - DAY 6
+
+##Threat Reporting System
+
+* Automated Threat Reports Added
+* Daily Threat Summary Created
+* MongoDB Report Collection Added
+* Report Export Feature Added
+* report_generator.py Script Added
 
 ## Features Added
 
