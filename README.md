@@ -241,6 +241,16 @@
 * Week 3 Documentation Completed
 * GitHub Repository Updated
 
+#WEEK 4 - DAY 1
+
+##SOC Monitoring Automation
+
+* Continuous IOC Monitoring Added
+* Real-Time Threat Tracking Enabled
+* Automated Monitoring Logs Added
+* Background Monitoring Script Created
+* soc_monitor.py Module Added
+
 ## Features Added
 
 * SIEM Visualization
