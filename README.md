@@ -251,6 +251,16 @@
 * Background Monitoring Script Created
 * soc_monitor.py Module Added
 
+#WEEK 4 - DAY 2
+
+##Log Analysis System
+
+* System Log Parsing Added
+* Threat Log Analysis Enabled
+* Suspicious Activity Detection Added
+* Log Monitoring Improved
+* log_analyzer.py Script Added
+
 ## Features Added
 
 * SIEM Visualization
