@@ -261,6 +261,16 @@
 * Log Monitoring Improved
 * log_analyzer.py Script Added
 
+#WEEK 4 - DAY 3
+
+##Incident Response Module
+
+* Incident Response Workflow Added
+* Threat Escalation System Added
+* Incident Classification Added
+* Automated Response Notes Added
+* incident_response.py Script Added
+
 ## Features Added
 
 * SIEM Visualization
