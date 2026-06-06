@@ -295,6 +295,18 @@
 
 #threat_enhancer.py Module Added
 
+#WEEK 4 - DAY 6
+
+##Final SOC Dashboard & Reporting
+
+* SOC Dashboard Summary Added
+* Threat Statistics Reporting
+* High/Medium/Low Risk Count
+* Daily Security Report Generated
+* Dashboard Documentation Updated
+
+#soc_dashboard.py Module Added
+
 ## Features Added
 
 * SIEM Visualization

@@ -1,0 +1,15 @@
+SOC Dashboard Report
+
+Total Threats : 150
+
+High Risk : 18
+
+Medium Risk : 47
+
+Low Risk : 85
+
+System Status : ACTIVE
+
+Threat Monitoring : ENABLED
+
+Report Generated Successfully
