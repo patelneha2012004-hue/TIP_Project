@@ -1,8 +1,63 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/TIP_Project/main/assets/banner.png" width="900">
+</p>
+
+<h1 align="center">Threat Intelligence Platform (TIP)</h1>
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-SIEM-yellow)
+![Kibana](https://img.shields.io/badge/Kibana-Dashboard-orange)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-red)
+![OSINT](https://img.shields.io/badge/OSINT-Threat_Feeds-blue)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-API-green)
+![Cron Jobs](https://img.shields.io/badge/Cron-Jobs-orange)
+
+
+## Overview
+
+Threat Intelligence Platform (TIP) is a cybersecurity project designed to collect, validate, process, analyze, and monitor threat intelligence data using OSINT sources, MongoDB, Elasticsearch, and Kibana.
+
+The platform provides automated threat collection, IOC validation, threat intelligence enrichment, monitoring, reporting, and SIEM dashboard visualization capabilities.
+
+---
+
+# Features
+
+* OSINT Threat Feed Collection
+* IOC Validation and Data Cleaning
+* MongoDB Integration
+* Elasticsearch SIEM Integration
+* Kibana Dashboard Monitoring
+* Threat Detection and Alerting
 * Threat Intelligence API Integration
+* Threat Reporting System
+* SOC Monitoring Automation
+* Log Analysis System
+* Incident Response Workflow
+* Threat Intelligence Enhancement
 
-# WEEK 1 - DAY 1
+---
 
-## Threat Intelligence Platform Setup
+# Technology Stack
+
+* Python
+* MongoDB
+* Elasticsearch
+* Kibana
+* Ubuntu Linux
+* Git & GitHub
+* OSINT Threat Feeds
+* VirusTotal API
+* Cron Jobs
+
+---
+
+# Project Timeline
+
+## WEEK 1 - Foundation Setup
+
+### DAY 1 - Threat Intelligence Platform Setup
 
 * Initial Project Setup Completed
 * GitHub Repository Created
@@ -11,10 +66,7 @@
 * .gitignore Added
 * Project Folder Structure Created
 
-
-# WEEK 1 - DAY 2
-
-## OSINT and MongoDB Integration
+### DAY 2 - OSINT and MongoDB Integration
 
 * MongoDB Installed Successfully
 * MongoDB Service Configured
@@ -23,10 +75,7 @@
 * MongoDB Integration Completed
 * Threat Feed Collection Tested
 
-
-# WEEK 1 - DAY 3
-
-## Project Structure Improvement
+### DAY 3 - Project Structure Improvement
 
 * src Folder Created
 * MongoDB Connection Module Added
@@ -35,10 +84,7 @@
 * Screenshots Folder Added
 * Modular Project Workflow Implemented
 
-
-# WEEK 1 - DAY 4
-
-## IOC Validation and Data Cleaning
+### DAY 4 - IOC Validation and Data Cleaning
 
 * Advanced IOC Validation Added
 * Invalid IOC Filtering Added
@@ -46,22 +92,13 @@
 * Threat Feed Processing Improved
 * IOC Validation Workflow Enhanced
 
+### DAY 5 - Logging System and Monitoring
 
-# WEEK 1 - DAY 5
+* Logging System Added
+* Threat Activity Logging Implemented
+* Monitoring Workflow Improved
 
-## Logging System and Monitoring
-
-- Automated Threat Feed Collection
-- Automatic Threat Feed Fetching Added
-- Scheduled Feed Collection Enabled
-- Cron Job Configuration Completed
-- Automated Monitoring Setup Added
-- auto_feed.py Script Added
-
-
-# WEEK 1 - DAY 6
-
-## Threat Data Export System
+### DAY 6 - Threat Data Export System
 
 * Threat Data Export System Added
 * JSON Threat Export Feature Implemented
@@ -69,10 +106,7 @@
 * Export Monitoring Improved
 * Threat Data Management Enhanced
 
-
-# WEEK 1 - DAY 7
-
-## Weekly Review and Documentation
+### DAY 7 - Weekly Review and Documentation
 
 * Weekly Project Review Completed
 * GitHub Repository Organized
@@ -80,21 +114,18 @@
 * Documentation Updated
 * Weekly Monitoring Improvements Added
 
+---
 
-# WEEK 2 - DAY 1
+## WEEK 2 - SIEM Integration
 
-## Threat Data Normalization
+### DAY 1 - Threat Data Normalization
 
-* Threat Data Normalization Added
 * Risk Score Assignment Implemented
 * MongoDB Threat Analysis Added
 * normalize.py Script Added
 * Threat Categorization Improved
 
-
-# WEEK 2 - DAY 2
-
-## Structured Threat Data Processing
+### DAY 2 - Structured Threat Data Processing
 
 * Structured Threat Data Added
 * JSON Threat Formatting Implemented
@@ -102,116 +133,78 @@
 * structured_feed.py Module Added
 * Threat Data Parsing Improved
 
-
-# WEEK 2 - DAY 3
-
-## Elasticsearch SIEM Backend
+### DAY 3 - Elasticsearch SIEM Backend
 
 * Elasticsearch Installed Successfully
 * SIEM Backend Configured
 * Elasticsearch Service Tested
-* Elasticsearch_setup.md Documentation Added
 * Elasticsearch Connectivity Verified
+* Documentation Added
 
-
-# WEEK 2 - DAY 4
-
-## Kibana Visualization Setup
+### DAY 4 - Kibana Visualization Setup
 
 * Kibana Installed Successfully
 * SIEM Visualization Setup Completed
 * Kibana Dashboard Accessed
-* kibana_setup.md Documentation Added
 * Dashboard Monitoring Environment Prepared
 
-
-# WEEK 2 - DAY 5
-
-## MongoDB to Elasticsearch Integration
+### DAY 5 - MongoDB to Elasticsearch Integration
 
 * MongoDB Threat Data Access Tested
-* Threat Collection Read Successfully
 * Elasticsearch Verification Completed
 * mongo_to_elastic.py Script Added
 * Threat Data Synchronization Improved
 
+### DAY 6 - Threat Search and Lookup System
 
-# WEEK 2 - DAY 6
-
-## Threat Search and Lookup System
-
-* Threat Search and Lookup System Added
 * IOC Search Functionality Implemented
 * MongoDB Threat Query Added
 * Threat Search Optimization Completed
 * Threat Lookup Monitoring Enabled
 
+### DAY 7 - Weekly SIEM Integration Review
 
-# WEEK 2 - DAY 7
-
-## Weekly SIEM Integration Review
-
-* Weekly SIEM Integration Review Completed
 * Elasticsearch and Kibana Workflow Verified
 * MongoDB to Elasticsearch Data Flow Tested
 * Dashboard Monitoring Improved
 * Weekly Documentation Updated
 
+---
 
-# WEEK 3 - DAY 1
+## WEEK 3 - Advanced Threat Intelligence & Automation
 
-## Automated Threat Feed Collection
+### DAY 1 - Automated Threat Feed Collection
 
-* Automated Threat Feed Collection Added
 * Automatic Threat Feed Fetching Enabled
 * Scheduled Feed Collection Configured
 * Cron Job Configuration Completed
 * Automated Monitoring Setup Added
 * auto_feed.py Script Added
 
+### DAY 2 - Threat Intelligence API Integration
 
-# WEEK 3 - DAY 2
-
-## Threat Intelligence API Integration
-
-* Threat Intelligence API Integration Completed
 * VirusTotal API Added
 * IOC Reputation Checking Enabled
 * External Threat Lookup Added
 * threat_api.py Module Added
 * Threat Reputation Monitoring Improved
 
+### DAY 3 - Threat Alerting System
 
-# WEEK 3 - DAY 3
-
-## Threat Alerting System
-
-* Threat Alerting System Added
 * IOC Alert Detection Enabled
 * Suspicious Threat Activity Monitoring Added
 * Alert Logging Module Configured
 * Threat Severity Identification Implemented
-* Basic SIEM Alert Workflow Tested
-* Threat Monitoring Automation Improved
 * alert_system.py Module Added
 
+### DAY 4 - Kibana SIEM Dashboard Verification
 
-# WEEK 3 - DAY 4
-
-## Kibana SIEM Dashboard Verification
-
-* Kibana Service Installed Successfully
 * Elasticsearch Service Verified
 * Kibana Dashboard Setup Tested
-* SIEM Visualization Environment Prepared
-* Kibana Web Interface Accessed
 * Dashboard Connectivity Verified
 * Threat Monitoring Dashboard Prepared
-* Kibana Running on Port 5601
 
-# WEEK 3 - DAY 5
-
-##Threat Detection Optimization
+### DAY 5 - Threat Detection Optimization
 
 * Detection Rules Improved
 * False Positive Filtering Added
@@ -220,9 +213,7 @@
 * Detection Accuracy Improved
 * detection_optimizer.py Module Added
 
-# WEEK 3 - DAY 6
-
-##Threat Reporting System
+### DAY 6 - Threat Reporting System
 
 * Automated Threat Reports Added
 * Daily Threat Summary Created
@@ -230,149 +221,82 @@
 * Report Export Feature Added
 * report_generator.py Script Added
 
-#WEEK 3 - DAY 7
-
-##Week 3 Final Integration
+### DAY 7 - Week 3 Final Integration
 
 * Full SIEM Workflow Tested
 * MongoDB to Elasticsearch Sync Verified
 * Alerting System Verified
 * Dashboard Monitoring Tested
 * Week 3 Documentation Completed
-* GitHub Repository Updated
 
-#WEEK 4 - DAY 1
+---
 
-##SOC Monitoring Automation
+## WEEK 4 - SOC Automation & Final Deployment
+
+### DAY 1 - SOC Monitoring Automation
 
 * Continuous IOC Monitoring Added
 * Real-Time Threat Tracking Enabled
 * Automated Monitoring Logs Added
-* Background Monitoring Script Created
 * soc_monitor.py Module Added
 
-#WEEK 4 - DAY 2
-
-##Log Analysis System
+### DAY 2 - Log Analysis System
 
 * System Log Parsing Added
 * Threat Log Analysis Enabled
 * Suspicious Activity Detection Added
-* Log Monitoring Improved
 * log_analyzer.py Script Added
 
-#WEEK 4 - DAY 3
+### DAY 3 - Incident Response Module
 
-##Incident Response Module
-
-* Incident Response Workflow Added
 * Threat Escalation System Added
 * Incident Classification Added
 * Automated Response Notes Added
 * incident_response.py Script Added
 
-#WEEK 4 - DAY 4
-
-##SIEM Performance Optimization
+### DAY 4 - SIEM Performance Optimization
 
 * Elasticsearch Performance Tuned
 * MongoDB Query Optimization Added
 * Faster Threat Search Enabled
 * Dashboard Performance Improved
-* SIEM Backend Stabilized
+* performance_optimizer.py Module Added
 
-#performance_optimizer.py Module Added
-
-##WEEK 4 - DAY 5
-
-#Threat Intelligence Enhancement
+### DAY 5 - Threat Intelligence Enhancement
 
 * Additional Threat Feeds Added
 * IOC Enrichment Enabled
 * Threat Categorization Improved
 * Advanced Threat Scoring Added
-* Feed Processing Optimized
+* threat_enhancer.py Module Added
 
-#threat_enhancer.py Module Added
-
-#WEEK 4 - DAY 6
-
-##Final SOC Dashboard & Reporting
+### DAY 6 - Final SOC Dashboard & Reporting
 
 * SOC Dashboard Summary Added
 * Threat Statistics Reporting
-* High/Medium/Low Risk Count
 * Daily Security Report Generated
 * Dashboard Documentation Updated
+* soc_dashboard.py Module Added
 
-#soc_dashboard.py Module Added
-
-WEEK 4 - DAY 7
-
-Final Project Deployment & Documentation
+### DAY 7 - Final Project Deployment & Documentation
 
 * Final Project Testing Completed
 * GitHub Repository Organized
 * README Finalized
-* Screenshots Organized Properly
 * Final Documentation Added
 * Project Deployment Ready
 * Resume Project Description Prepared
 
-Files Added
-
-* final_project_documentation.md
-* resume_project_description.md
-
-Project Status
-
-Completed Successfully
-
-Technology Stack
-
-* Python
-* MongoDB
-* Elasticsearch
-* Kibana
-* Ubuntu Linux
-
-Modules Implemented
-
-* OSINT Threat Feed Collection
-* IOC Validation
-* MongoDB Integration
-* Elasticsearch Integration
-* Kibana Dashboard
-* Threat Detection
-* Threat Reporting
-* SOC Monitoring
-* Log Analysis
-* Incident Response
-* Threat Intelligence Enhancement
-
-
-## Features Added
-
-* SIEM Visualization
-* Dashboard Monitoring
-* Elasticsearch Integration
-* Kibana Service Configuration
-
-
-# Technologies Used
-
-* Python
-* MongoDB
-* Elasticsearch
-* Kibana
-* Linux
-* OSINT Threat Feeds
-* VirusTotal API
-* Cron Jobs
-
+---
 
 # Contributors
 
-* @ANKU5H-CS
-* @patelneha2012004-hue
-* @thomastechsec
+* ANKU5H-CS
+* patelneha2012004-hue
+* thomastechsec
+
+---
+
+# Project Status
+
+✅ Completed Successfully
